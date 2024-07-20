@@ -10,7 +10,7 @@ A simple and interactive To-Do List application built using vanilla JavaScript. 
 - **Responsive Design:** The application is designed to be simple and intuitive, working well on various devices and screen sizes.
 
 ## Screenshots
- ![Screenshot](images/to-do-screenshot.PNG)
+ ![to-do-screenshot](https://github.com/user-attachments/assets/be4cfde4-f69a-42ff-8cc5-85971b3c35ab)
 
 ## Installation
 
